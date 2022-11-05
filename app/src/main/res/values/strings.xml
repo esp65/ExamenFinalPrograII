@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RegistrTienda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_contraseña">Contraseña:</string>
+    <string name="btn_guarda">Guardar Registro </string>
+    <string name="menu_nuevo">Nuevo usuario</string>
+
+    <string name="hint_nom">Nombre:</string>
+    <string name="hint_apellido">Apellido:</string>
+    <string name="hint_email">Email:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="btn_Guard">Guardar Registro </string>
+
+    <string name="hint_nombr">Nombre:</string>
+    <string name="hint_contra">Contraseña:</string>
+    <string name="btn_guard">Guardar Registro </string>
+
+    <string name="menu_nue">Nuevo cliente</string>
+
+    <string name="menu_Nuevo">Nuevo vendedor</string>
+
+</resources>
